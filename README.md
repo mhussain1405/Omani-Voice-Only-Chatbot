@@ -52,7 +52,7 @@ python -m venv venv
 
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-### 4. Configure Environment Variables
+### 3. Configure Environment Variables
 
 Create a file named .env in the root of the project directory. Add your API keys to this file:
 
@@ -64,6 +64,6 @@ AZURE_SPEECH_KEY="your_azure_key"
 
 AZURE_SPEECH_REGION="your_azure_region"
 
-### 5. Run the Application
+### 4. Run the Application
 
 python app.py
