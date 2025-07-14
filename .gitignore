@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python virtual environment & cache
+venv/
+__pycache__/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Gradio certificates
+.gradio/
