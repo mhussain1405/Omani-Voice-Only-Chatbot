@@ -54,10 +54,6 @@ python -m venv venv
 
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-#### Install required packages
-
-pip install -r requirements.txt
-
 ### 4. Configure Environment Variables
 
 Create a file named .env in the root of the project directory. Add your API keys to this file:
