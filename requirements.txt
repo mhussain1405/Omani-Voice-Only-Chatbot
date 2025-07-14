@@ -1,0 +1,24 @@
+# requirements.txt
+
+# --- Core AI and API Clients ---
+# For OpenAI API (GPT-4o)
+openai==1.14.3
+
+# For Anthropic API (Claude Opus 4)
+anthropic==0.21.3
+
+# For Microsoft Azure Speech Services (STT and TTS)
+azure-cognitiveservices-speech==1.34.1
+
+# --- Web Interface and Data Handling ---
+# The Gradio web framework
+gradio==4.12.0
+
+# For handling audio data arrays
+numpy==1.26.2
+
+# For loading API keys from the .env file
+python-dotenv==1.0.0
+
+# For handling audio file data (though not strictly used, good dependency)
+wavio==0.0.8
