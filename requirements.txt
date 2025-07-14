@@ -1,0 +1,7 @@
+anthropic==0.57.1
+azure-cognitiveservices-speech==1.45.0
+gradio==5.37.0
+numpy==2.2.6
+openai==1.95.1
+python-dotenv==1.1.1
+wavio==0.0.9
