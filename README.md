@@ -46,8 +46,6 @@ git clone https://github.com/your-username/Omani-Voice-Only-Chatbot.git
 
 cd Omani-Voice-Only-Chatbot
 
-### 3. Install Dependencies
-
 #### Create and activate a virtual environment (optional but recommended)
 
 python -m venv venv
